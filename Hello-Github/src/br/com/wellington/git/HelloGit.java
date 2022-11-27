@@ -17,7 +17,7 @@ public class HelloGit {
 		// TODO Auto-generated method stub
 		System.out.println("Hello GitHub");
 		System.out.println("Wellington");
-		System.out.println("Integrando ao eclipse");
+		System.out.println("Atualizar repositório remoto");
 	}
 
 }
