@@ -18,6 +18,7 @@ public class HelloGit {
 		System.out.println("Hello GitHub");
 		System.out.println("Wellington");
 		System.out.println("Atualizar repositório remoto");
+		System.out.println("Agora está funcionando");
 	}
 
 }
